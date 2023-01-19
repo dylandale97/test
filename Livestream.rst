@@ -60,6 +60,7 @@ Next, select the Stream all elementary streams option and then click the Stream 
     :alt: 9
 
 After these steps, the camera images are hosted/streamed at the following url: http://localhost:8080/stream.ogg
+
 You then need this url to port forward this to a public url via the router.
 See how port forwarding works here: https://www.noip.com/support/knowledgebase/general-port-forwarding-guide/
 
