@@ -16,6 +16,7 @@ Open vlc media player and go to Media -> stream...
     :alt: 1
 
 Go to the Capture Device tab, select the hive streaming camera and then click the Stream button.
+
 .. image:: images/livestream/2.png
     :width: 400
     :alt: 2
@@ -27,6 +28,7 @@ Then click the Next button.
     :alt: 3
 
 Select HTTP as the destination and then click the Add button.
+
 .. image:: images/livestream/4.png
     :width: 400
     :alt: 4
